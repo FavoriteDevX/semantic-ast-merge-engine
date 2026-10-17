@@ -1,0 +1,15 @@
+{
+  "name": "semantic-ast-merge-engine",
+  "version": "1.0.0",
+  "description": "AST-based semantic code merger to resolve layout string conflicts natively",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/generator": "^7.24.0",
+    "@babel/traverse": "^7.24.0",
+    "@babel/types": "^7.24.0"
+  }
+}
